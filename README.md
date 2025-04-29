@@ -1,7 +1,7 @@
 # 🔍 CodeSearch-Crow
 
-**🇯🇵 日本語でGitHubコードを検索できる自然言語インターフェース**  
-**🇺🇸 Natural Language Code Search for GitHub Repositories in Japanese**
+**GitHubコードを検索できる自然言語インターフェース**  
+**Natural Language Code Search for GitHub Repositories**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shun0212/CodeSearch-Crow/blob/main/CodeCrow_RAG.ipynb)
 
