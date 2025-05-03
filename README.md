@@ -3,7 +3,7 @@
 **GitHubコードを検索できる自然言語インターフェース**  
 **Natural Language Code Search for GitHub Repositories**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shun0212/CodeSearch-Crow/blob/main/CodeCrow_RAG.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shun0212/CodeSearch-Crow/blob/main/CodeSearchCrow.ipynb)
 
 ---
 
@@ -36,7 +36,7 @@ This tool allows you to search for relevant code snippets in a GitHub repository
 ## 🚀 クイックスタート / Quick Start (Google Colab)
 
 1. Google Colab でノートブックを開く  
-   → [CodeCrow_RAG.ipynb](https://colab.research.google.com/github/Shun0212/CodeSearch-Crow/blob/main/CodeCrow_RAG.ipynb)
+   → [CodeSearchCrow.ipynb](https://colab.research.google.com/github/Shun0212/CodeSearch-Crow/blob/main/CodeSearchCrow.ipynb)
 
 2. ランタイムを **GPU（L4以上推奨）** に変更  
    > Runtime > Change runtime type > GPU
@@ -101,7 +101,7 @@ This tool allows you to search for relevant code snippets in a GitHub repository
 
 ```
 CodeSearch-Crow/
-├── CodeCrow_RAG.ipynb   # メインのColabノートブック / Main Notebook
+├── CodeSearchCrow.ipynb   # メインのColabノートブック / Main Notebook
 ├── README.md            # このファイル / This README
 ├── LICENSE              # Apache-2.0 License
 └── .gitignore
